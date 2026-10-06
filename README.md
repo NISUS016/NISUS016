@@ -72,12 +72,16 @@ const nisus016 = {
 </p>
 
 <p align="center">
+  <a href="https://nisus016.github.io/tetris-arcade/"><img src="https://img.shields.io/website?url=https%3A%2F%2Fnisus016.github.io%2Ftetris-arcade%2F&up_message=GAME%20IS%20LIVE&down_message=OFFLINE&style=flat-square&logo=gamepad&labelColor=0a0e27&color=00FF88" alt="live status — game is live"/></a>
+</p>
+
+<p align="center">
   <b>⬆️ Click PLAY — it opens the full neon arcade game in a new tab ⬆️</b><br/>
   <sub>Ghost piece • Hold • Next preview • Levels • Touch controls • High score saves in your browser</sub>
 </p>
 
 <p align="center">
-  <a href="https://nisus016.github.io/tetris-arcade/"><img src="assets/tetris-preview.png" alt="Neon Tetris gameplay preview — click to play" width="80%"/></a>
+  <a href="https://nisus016.github.io/tetris-arcade/"><img src="assets/tetris-preview.gif" alt="Live Tetris gameplay — click to play" width="80%"/></a>
 </p>
 
 **Controls:** `← →` move · `↓` soft drop · `↑ / X` rotate · `Z` rotate back · `Space` hard drop · `C` hold · `P` pause · `R` restart · 📱 on-screen buttons on mobile
