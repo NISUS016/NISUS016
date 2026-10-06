@@ -14,6 +14,9 @@
 
 ## 🌙 About Me
 
+<!-- Character art © ATLUS, via Megami Tensei Wiki (CC BY-SA) -->
+<img align="right" width="190" src="assets/makoto-yuki.png" alt="Makoto Yuki — Persona 3 protagonist"/>
+
 Hey, I'm **Nishchal (`NISUS016`)** — I turn notes, prompts, and weird ideas into **playable, interactive things on the web**.
 
 - 🔬 **Right now:** building on **MIRAI-V1 / V2** + **Mirai-Edge** — prompt-driven AI assistants & edge tooling
