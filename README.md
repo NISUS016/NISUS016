@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:070B24,100:2E9DFF&height=180&section=header&text=NISHCHAL%20%2F%2F%20NISUS016&fontColor=DCEFFF&fontSize=42&fontAlignY=35&desc=AI%20Builder%20%E2%80%A2%20Python%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Interactive%20Web%20%F0%9F%8C%99&descAlignY=55&descSize=16" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050A30,50:0A3D91,100:2E9DFF&height=220&section=header&text=NISHCHAL%20%2F%2F%20NISUS016&fontColor=FFFFFF&fontSize=46&fontAlignY=34&desc=AI%20Builder%20%E2%80%A2%20Python%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Interactive%20Web%20%F0%9F%8C%8A&descAlignY=56&descSize=17&animation=fadeIn" alt="header"/>
 
 <p align="center">
   <a href="https://github.com/NISUS016/NISUS016"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2E9DFF&center=true&vCenter=true&width=600&lines=AI+builder+shipping+playable+things;Python+%2F+TypeScript+%2F+Interactive+Web;Welcome+to+the+Dark+Hour+%E2%80%94+scroll+on+%F0%9F%8C%99" alt="typing"/></a>
@@ -84,4 +84,4 @@ const nisus016 = {
   <a href="https://github.com/NISUS016/general-notes">notes</a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9DFF,100:070B24&height=120&section=footer" alt="footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9DFF,50:0A3D91,100:050A30&height=140&section=footer&animation=fadeIn" alt="footer"/>
