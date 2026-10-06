@@ -77,7 +77,7 @@ const nisus016 = {
 </p>
 
 <p align="center">
-  <a href="https://nisus016.github.io/tetris-arcade/"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=120&section=header&text=▞▞▞%20STACK%20%27EM%20▞▞▞&fontColor=ffffff&fontSize=30&fontAlignY=50" alt="tetris banner" width="90%"/></a>
+  <a href="https://nisus016.github.io/tetris-arcade/"><img src="assets/tetris-preview.png" alt="Neon Tetris gameplay preview — click to play" width="80%"/></a>
 </p>
 
 **Controls:** `← →` move · `↓` soft drop · `↑ / X` rotate · `Z` rotate back · `Space` hard drop · `C` hold · `P` pause · `R` restart · 📱 on-screen buttons on mobile
