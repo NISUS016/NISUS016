@@ -31,6 +31,8 @@ const nisus016 = {
 };
 ```
 
+<img width="100%" src="assets/divider-matrix.png" alt="divider"/>
+
 ## 🛠️ Tech Stack
 
 <p>
@@ -42,6 +44,8 @@ const nisus016 = {
   <img src="https://img.shields.io/badge/Sims_%26_Systems-050A30?style=for-the-badge&logoColor=2E9DFF" />
   <img src="https://img.shields.io/badge/Jupyter-050A30?style=for-the-badge&logo=jupyter&logoColor=F37626" />
 </p>
+
+<img width="100%" src="assets/divider-matrix.png" alt="divider"/>
 
 ## 📦 Selected Work
 
@@ -56,6 +60,8 @@ const nisus016 = {
 | [NOTEKRAFT](https://github.com/NISUS016/NOTEKRAFT) + [general-notes](https://github.com/NISUS016/general-notes) | Notes → interactive websites | HTML |
 | [PROMPTDEC](https://github.com/NISUS016/PROMPTDEC) | Prompt tooling / decoding ideas | TypeScript |
 
+<img width="100%" src="assets/divider-matrix.png" alt="divider"/>
+
 ## 📊 Stats
 
 <p align="center">
@@ -65,6 +71,8 @@ const nisus016 = {
 <p align="center">
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NISUS016&layout=compact&theme=tokyonight&hide_border=true" alt="langs"/>
 </p>
+
+<img width="100%" src="assets/footer-matrix.png" alt="footer"/>
 
 <p align="center">
   <sub>Python • TypeScript • AI • Interactive web</sub><br/>
